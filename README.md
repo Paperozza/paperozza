@@ -72,6 +72,8 @@
   <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://icons8.com/icon/TuXN3JNUBGOT/windows-11" height="40" alt="windows 11 logo"  />
 </div>
 
 ###
