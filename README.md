@@ -73,9 +73,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/pop-os-logo.png" height="48 "alt="pop-os-logo"/>
+  <img src="https://img.icons8.com/fluency/48/pop-os-logo.png" height="40 "alt="pop-os-logo"/>
   <img width="12" />
-  <img src="https://img.icons8.com/material-outlined/24/arch-linux.png" height="24" alt="arch-linux"/>
+  <img src="https://img.icons8.com/material-outlined/24/arch-linux.png" height="40" alt="arch-linux"/>
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/windows-11.png" height="40" alt="windows-11"  />
 </div>
